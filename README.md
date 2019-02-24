@@ -13,7 +13,7 @@
 -本人虽愚钝但从未停止学习。 性格开朗，随和。希望能得到一份实习。大佬们带带我吧O(∩_∩)O哈哈~ tel：18950679123-
 ### 项目浏览 
 
-![img1](https://github.com/Nightwishes/vue-bolg/blob/master/show/3.jpg)
+![img1](https://github.com/Nightwishes/vue-bolg/blob/master/show/3.png)
 ![img1](https://github.com/Nightwishes/vue-bolg/blob/master/show/2.png)
 ![img1](https://github.com/Nightwishes/vue-bolg/blob/master/show/1.png)
 ### 执行一下操作开启项目
